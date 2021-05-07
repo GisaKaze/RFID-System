@@ -1,5 +1,5 @@
 # RFID-System
-Putting RFID we that studied at another level 😊🔥🔥🔥
+Putting RFID that we studied at another level 😊🔥🔥🔥
 
 ## Get started
 
