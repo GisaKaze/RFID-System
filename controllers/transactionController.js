@@ -148,9 +148,6 @@ const deleteTransactionByUUID = (transactionUUID)=>{
         return {
             success: true,
             message: "Transaction Was Deleted",
-            // data: {
-            //     cardId: results[0]
-            // }
         }
     }).catch((err)=> {
         return {
