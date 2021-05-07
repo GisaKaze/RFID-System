@@ -101,6 +101,9 @@ const deleteCardById = (cardId)=>{
         return {
             success: true,
             message: "Card Was Deleted",
+            // data: {
+            //     cardId: results[0]
+            // }
         }
     }).catch((err)=> {
         return {
